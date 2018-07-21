@@ -1,0 +1,19 @@
+{
+  "name": "cnn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "brain": "^1.0.0",
+    "express": "^4.16.3",
+    "node-gyp": "^3.7.0",
+    "rebuild": "^0.1.2"
+  },
+  "description": ""
+}
